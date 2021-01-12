@@ -19,31 +19,7 @@
     </include>
 
 
- <!-- creeper_20 -->
-    <include>
-      <uri>model://pista_u/creepers/creeper_20</uri>
-      <pose> 2.69 2.06 0.162 0 0 -1.4848</pose>
-    </include>
-
-
- <!-- creeper_40 -->
-    <include>
-      <uri>model://pista_u/creepers/creeper_40</uri>
-      <pose> -3.85 0 0.162 0 0 1.62</pose>
-    </include>
-
- <!-- creeper_60 -->
-    <include>
-      <uri>model://pista_u/creepers/creeper_60</uri>
-      <pose> 3.85 -2.48 0.162 0 0 -1.55</pose>
-    </include>
-
-
 <!-- mapa sala -->
-    <include>
-      <uri>model://pista_u/parede</uri>
-      <pose> 0 0 0 0 0 0</pose>
-    </include>
 
     <physics type="ode">
       <real_time_update_rate>1000.0</real_time_update_rate>
